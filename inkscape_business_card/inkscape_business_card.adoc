@@ -1,0 +1,11 @@
+= Inkscape: How to create a business card.
+
+Having a business card comes handy, whenever we meet some new and we would like to make them remember us. In this article, we will see how we can easily create a business card in Inkscape using and we will explain several concepts for working with _vector graphics_ that you can use further to create more interesting pieces of art.
+
+== Getting Inkscape
+
+As _Inkscape_ is a standard application in Fedora, we can easily install it the usual way, using `dnf install inkscape`. Those who run different platform can either use their installation methods, or they can install the application from Flathub using `flatpak install org.inkscape.Inkscape`. Setting-up the Flathub repository is unfortunately out of scope of this article.
+
+== Setting up you document.
+
+
